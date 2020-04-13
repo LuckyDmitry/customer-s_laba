@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\Дмитрий\source\repos\Queue\Queue\list.h(183): warning C4715: List<Customer>::operator[]: значение возвращается не при всех путях выполнения
+  Queue.vcxproj -> C:\Users\Дмитрий\source\repos\Queue\Debug\Queue.exe
